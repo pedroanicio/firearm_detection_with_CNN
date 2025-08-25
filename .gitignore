@@ -1,0 +1,11 @@
+dataset/com_arma/*
+dataset/sem_arma/*
+*.h5
+*.keras
+__pycache__/
+*.pyc
+*.pyo
+*.odt
+*.docx
+*.pdf
+*.npy
