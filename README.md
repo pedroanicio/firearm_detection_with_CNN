@@ -84,3 +84,7 @@ python teste_final.py
 - https://www.youtube.com/watch?v=4XhopE2fEf0
 - https://www.youtube.com/watch?v=WvoLTXIjBYU
 
+## ⚖️ Disclaimer
+
+This project was developed strictly for academic purposes as part of a university course on Artificial Intelligence.
+It is not intended for real-world deployment or safety-critical use cases.
