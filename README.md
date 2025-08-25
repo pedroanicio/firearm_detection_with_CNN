@@ -73,7 +73,6 @@ python teste_final.py
 ```
 ## 📚 References
 
-```
 - https://www.tensorflow.org/tutorials/images/cnn?hl=pt-br
 - https://www.tensorflow.org/tutorials/images/classification?hl=pt-br
 - https://keras.io/api/
@@ -84,5 +83,4 @@ python teste_final.py
 - https://www.youtube.com/watch?v=VGLAe-PINfE
 - https://www.youtube.com/watch?v=4XhopE2fEf0
 - https://www.youtube.com/watch?v=WvoLTXIjBYU
-```
 
