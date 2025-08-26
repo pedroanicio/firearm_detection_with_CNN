@@ -51,7 +51,7 @@ The model is trained to both **classify whether a firearm is present** and to **
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/firearm-detection.git
-cd TRABALHO2IA
+cd firearm-detection
 ```
 
 ### 2. Install dependencies
